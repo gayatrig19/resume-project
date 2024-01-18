@@ -1,3 +1,6 @@
+Live link to website - [Walkthrough Resume Project]( https://gayatrig19.github.io/resume-project/)
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome,
